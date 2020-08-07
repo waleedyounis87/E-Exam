@@ -1,34 +1,27 @@
-PHP PAANO BA MAG DOWNLOAD NG "FREE SOURCE CODE"
-FIRST DOWNLOAD
-
-
+PHP Source Code Online Examination System
+==========================
+Documentation to run it
+==========================
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 4 last realse i am using.
 
-3.ITO YONG SOURCE CODE NA IBIBIGAY KO 
-     "Online Examination System"
+3. Download the zip file/ using git bash or github desktop app
 
-4. Download the zip file/ download din ng winrar
+4. Extract the file and copy "E-Exam" folder
 
-5. Extract the file and copy "Online Examination System" folder
+5.Paste inside root directory/ C: xampp/htdocs
 
-6.Paste inside root directory/ kayo nakakaalam kung sa local disk C: drive D: sa akin drive E: naka install ang xammp kayo doon ko paste: (for xampp/htdocs, 
+6. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+7. Create a database with name cee_db
 
-8. Create a database with name cee_db
+8. Import cee_db.sql file
 
-6. Import cee_db.sql file(given inside the zip package in SQL file folder)
+8. Run the script http://localhost/E-Exam\adminpanel\admin\index.php
 
-7.Run the script http://localhost/Online Examination System
-
-lahat ng ito ituturo ko
 
 admin
 Username: admin@username
 Password: admin@password
-
-user
-Username:admin@password
-Password:jane
+or you can create admin using local DB
